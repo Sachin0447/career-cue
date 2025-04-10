@@ -12,10 +12,6 @@ Career Cue is a career guidance application developed as part of a college proje
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 This project leverages a combination of server-side and client-side technologies to deliver a seamless user experience.
@@ -81,7 +77,3 @@ Follow these steps to set up the project locally:
    ```
 
 6. Open your browser and visit `http://localhost:[port]`.
-
-## Usage
-
-[Provide instructions on how to use the application, e.g., "Log in, create a profile, and start tracking your career goals."]
